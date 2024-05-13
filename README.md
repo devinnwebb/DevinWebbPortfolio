@@ -1,6 +1,8 @@
-# DevinWebbPortfolio
+# Devin Webb Portfolio
 
-## About
+## Data Analysis / Data Science Portfolio
+
+### About
 
 Hello, my name is Devin! Welcome to my portfolio!
 
